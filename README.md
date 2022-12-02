@@ -7,7 +7,8 @@
 - pizzas.csv: fichero que contiene información sobre el precio de cada pizza en relación a su tamaño.
 - data_dictionary.csv: fichero que contiene información sobre los csv previamente descritos.
 - 2016_prediction.csv: fichero que contiene la predicción de ingredientes de cada semana para un año.
-- info_from_data.xml: fichero que contiene el informe de datos de cada fichero csv.
+- data_info.csv: fichero csv que contiene el informe de datos de cada fichero csv.
+- info_from_data.xml: fichero xml que contiene el informe de datos de cada fichero csv.
 - requirements.txt: fichero de texto que contiene las librerías necesarias y sus versiones para la ejecución del script.
 
 ## Descripción del script
