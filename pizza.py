@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 import xml.etree.ElementTree as ET
 
 
@@ -126,7 +125,7 @@ def load(prediction: pd.DataFrame, info_from_data: dict) -> None:
     """
     Load the prediction DataFrame to a csv file and the info_from_data into a xml file
     """
-    # prediction.to_csv('2016_prediction.csv')
+    prediction.to_csv('2016_prediction.csv')
 
     # Create the tree
     root = ET.Element('info_from_data')
