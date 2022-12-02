@@ -1,0 +1,5 @@
+,shape,Na values,null values,unique values,type
+order_details,"(48620, 4)",0,0,70065,"[dtype('int64'), dtype('int64'), dtype('O'), dtype('int64')]"
+orders,"(21350, 3)",0,0,38090,"[dtype('int64'), dtype('O'), dtype('O')]"
+pizzas,"(96, 4)",0,0,160,"[dtype('O'), dtype('O'), dtype('O'), dtype('float64')]"
+pizzas_types,"(32, 4)",0,0,100,"[dtype('O'), dtype('O'), dtype('O'), dtype('O')]"
